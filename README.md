@@ -1,8 +1,7 @@
 ## 📝 Biografía
-Estudiante de cuarto año de Ingeniería en Ciencias Informáticas en la Universidad de Ciencias Informáticas
-con experiencia laboral como técnico en Ciencias Informáticas. Poseo habilidades personales como la capacidad
-de adaptación, el trabajo en equipo, la creatividad, la resolución de problemas, el pensamiento crítico y la
-inteligencia emocional, que permiten desempeñarme eficazmente en el ámbito laboral.
+“Cualquier tonto puede escribir código que un ordenador entienda.
+Los buenos programadores escriben código que los humanos pueden entender”  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Martin Fowler**
 
 ## 🚀 Proyectos
 - [Proyecto 1](https://your-project-1-url.com)
