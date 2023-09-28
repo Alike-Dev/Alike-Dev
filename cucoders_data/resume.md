@@ -30,9 +30,9 @@ Breve descripción de su experiencia y objetivos profesionales.
   - CSS
 - Frameworks
   - React
-- IDEs
-  -Qt
-  -NetBeans
+- IDE's
+  - Qt
+  - NetBeans
 
 ## 🌎 Idiomas
 
