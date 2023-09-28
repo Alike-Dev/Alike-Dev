@@ -30,7 +30,7 @@ Breve descripción de su experiencia y objetivos profesionales.
   - CSS
 - Frameworks
   - React
-- IDE's
+- IDEs
   - Qt
   - NetBeans
 
