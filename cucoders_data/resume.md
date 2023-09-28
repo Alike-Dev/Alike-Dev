@@ -20,8 +20,6 @@ Breve descripción de su experiencia y objetivos profesionales.
 - Descripción detallada de responsabilidades y logros
 
 ## 💻 Habilidades
-
-- 💻 Lista de habilidades, herramientas o tecnologías en las que se es competente
 - Lenguajes
   - C++
   - Java
@@ -32,7 +30,7 @@ Breve descripción de su experiencia y objetivos profesionales.
   - CSS
 - Frameworks
   - React
-- IDE's
+- IDEs
   -Qt
   -NetBeans
 
