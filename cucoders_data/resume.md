@@ -1,5 +1,5 @@
 ## 💼 Perfil profesional
-Breve descripción de su experiencia y objetivos profesionales.
+Estudiante de cuarto año de Ingeniería en Ciencias Informáticas en la Universidad de Ciencias Informáticas con experiencia laboral como técnico en Ciencias Informáticas. Poseo habilidades personales como la capacidad de adaptación, el trabajo en equipo, la creatividad, la resolución de problemas, el pensamiento crítico y la inteligencia emocional, que permiten desempeñarme eficazmente en el ámbito laboral.
 
 ## 🎓 Educación
 
