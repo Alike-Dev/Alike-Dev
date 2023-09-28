@@ -15,9 +15,13 @@ inteligencia emocional, que permiten desempeñarme eficazmente en el ámbito lab
 - [Repositorio 3](https://github.com/your_username/repository3)
 
 ## 🔧 Habilidades Principales
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
 
 ## 💬 Contacto
 - Correo electrónico: alejandrososa.freelancer@gmail.com
