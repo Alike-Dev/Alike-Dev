@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on video game development<br>
-👯 I’m looking to collaborate on a Django project<br>
+🔭 I’m currently working on the Transfer Móvil team<br>
+👯 I’m looking to collaborate on a .Net project<br>
 🌱 I’m currently learning Python<br>
 <br>
-⚡I like to learn everything!
+⚡ I like learning new technologies.!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alike-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AlikeFreelancer) 
